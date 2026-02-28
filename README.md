@@ -32,7 +32,3 @@ This project showcases a scroll-driven animation for a hero section on a web pag
 - Scroll down the page to view the hero section animation.  
 - Customize the animation by modifying the JavaScript code within the project. 
 - Feel free to experiment with styles and effects in the CSS files to reach your desired look.
-
-## Contribution
-
-Contributions are welcome! Please create an issue or submit a pull request to discuss potential changes.
